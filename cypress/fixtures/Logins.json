@@ -1,0 +1,33 @@
+{
+    "LoginUsuarioInvalido": {
+      "login": "1111",
+      "senha": "54321"
+    },
+    "LoginSenhaInvalida": {
+      "login": "SAJ6.TESTE",
+      "senha": "a"
+    },
+    "LoginDadosPromotor": {
+      "login": "SAJ6.TESTE",
+      "senha": "54321",
+      "nome": "SAJ6 Teste",
+      "iniciais": "ST",
+      "cargo": "Promotor de Justiça",
+      "NomeLotacao": "1ª Promotoria de Justiça da Comarca de Sombrio",
+      "IdLotacao": "69001"
+    },
+    "LoginDadosAssessor": {
+      "login": "SAJ6.ASSESSOR",
+      "senha": "54321",
+      "nome": "Assessor de Justiça SAJ6",
+      "iniciais": "AS",
+      "NomeLotacao": "2ª Promotoria de Justiça da Comarca de Sombrio"
+    },
+    "loginDadosEstagiario": {
+      "login": "SAJ6.ESTAGIARIO",
+      "senha": "54321",
+      "nome": "Estagiário Juridico SAJ6",
+      "iniciais": "ES"
+    }
+  }
+  

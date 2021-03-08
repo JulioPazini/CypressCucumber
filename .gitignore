@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/test-report
+/cypress/screenshots
+/cypress/videos
+package-lock.json
+yarn-error.log

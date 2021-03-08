@@ -1,0 +1,10 @@
+documents/*
+images/*
+node_modules/*
+test-report/*
+videos/*
+yarn.lock
+package.json
+babel.config.js
+.eslintrc.js
+allure-report/*
